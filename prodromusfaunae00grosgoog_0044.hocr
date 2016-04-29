@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prodromusfaunae00grosgoog_0044.png"; bbox 0 0 656 1177; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 163 479 616 586">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 163 479 616 560">
+     <span class='ocr_line' id='line_1_1' title="bbox 163 479 616 489; baseline 0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 163 479 616 489; x_wconf 58' lang='lat' dir='ltr'>m</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 196 505 578 528; baseline 0.003 -6"><span class='ocrx_word' id='word_1_2' title='bbox 196 506 284 528; x_wconf 66' lang='lat' dir='ltr'>sep-ratim</span> <span class='ocrx_word' id='word_1_3' title='bbox 294 506 336 527; x_wconf 65' lang='lat' dir='ltr'><strong>typis</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 346 507 427 522; x_wconf 71' lang='lat' dir='ltr'>cnr-mm</span> <span class='ocrx_word' id='word_1_5' title='bbox 438 510 458 522; x_wconf 84' lang='lat' dir='ltr'>ex</span> <span class='ocrx_word' id='word_1_6' title='bbox 466 505 528 525; x_wconf 56' lang='lat' dir='ltr'>dixin,</span> <span class='ocrx_word' id='word_1_7' title='bbox 539 511 554 522; x_wconf 76' lang='lat' dir='ltr'>e.</span> <span class='ocrx_word' id='word_1_8' title='bbox 566 509 578 523; x_wconf 69' lang='lat' dir='ltr'>k.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 244 540 569 560; baseline 0.006 -6"><span class='ocrx_word' id='word_1_9' title='bbox 244 540 330 558; x_wconf 57' lang='lat' dir='ltr'>mamm·</span> <span class='ocrx_word' id='word_1_10' title='bbox 335 545 368 560; x_wconf 53' lang='grc' dir='ltr'>φορτ</span> <span class='ocrx_word' id='word_1_11' title='bbox 375 540 411 554; x_wconf 71' lang='lat' dir='ltr'><em>Irae.</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 420 540 471 556; x_wconf 69' lang='lat' dir='ltr'><em>cuch.</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 480 545 497 554; x_wconf 65' lang='grc' dir='ltr'>α»</span> <span class='ocrx_word' id='word_1_14' title='bbox 505 540 569 559; x_wconf 61' lang='lat' dir='ltr'><em>phyma.</em></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 163 575 610 586">
+     <span class='ocr_line' id='line_1_4' title="bbox 163 575 610 586; baseline 0.004 -2"><span class='ocrx_word' id='word_1_15' title='bbox 163 575 610 586; x_wconf 55' lang='lat' dir='ltr'><em>Q</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
